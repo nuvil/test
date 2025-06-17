@@ -33,4 +33,6 @@ sudo apt install -y \
   libxxf86vm-dev \
   wayland-protocols \
   cmake \
-  meson \
+itămeson \
+  ninja-build \
+  pkg-config
